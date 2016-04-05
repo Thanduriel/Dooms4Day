@@ -8,7 +8,6 @@
 #include <iostream>
 #endif
 
-#include "glext.h"
 #include "map.hpp"
 
 const static PIXELFORMATDESCRIPTOR pfd =
